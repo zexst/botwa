@@ -6,7 +6,7 @@
 >
 </div>
 <p align="center">
-  <a href="https://github.com/zeeoneofc"><img title="Author" src="https://img.shields.io/badge/Author-ZEEONE OFC-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/zeeoneofc"><img title="Author" src="https://img.shields.io/badge/Author-PASYA PENYENDIRI-red.svg?style=for-the-badge&logo=github" /></a>
   </p>
 
 ##  DI TERMUX
